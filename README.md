@@ -37,4 +37,4 @@ The script writes the executable to `release/GaussianInputManager.exe`. It embed
 
 Google Sans comes from the [Google Fonts Google Sans repository](https://github.com/googlefonts/googlesans) and is distributed under the SIL Open Font License; its license is in `assets/fonts/OFL.txt`. The app source and project logo use the MIT license in `LICENSE`.
 
-
+Developed to save my time, feel free to add changes if anyone wants.
