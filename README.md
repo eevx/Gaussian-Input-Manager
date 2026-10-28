@@ -2,7 +2,7 @@
 
 A small Windows utility for changing the run settings in an existing Gaussian input file. It leaves the coordinate and connectivity data alone and writes a new `.com` file with Unix line endings.
 
-![Gaussian Input Manager logo](assets/GaussianInputManager.png)
+![Gaussian Input Manager logo](assets/application_img.png)
 
 ## What it does
 
