@@ -16,7 +16,7 @@ A small Windows utility for changing the run settings in an existing Gaussian in
 
 ## Run it
 
-A prebuilt copy is in [`release/GaussianInputManager.exe`](release/GaussianInputManager.exe). It runs on Windows with the .NET Framework available.
+Download the latest Windows executable from the [Releases page](https://github.com/eevx/Gaussian-Input-Manager/releases). It runs on Windows with the .NET Framework available.
 
 ## Build from source
 
@@ -36,4 +36,5 @@ The script writes the executable to `release/GaussianInputManager.exe`. It embed
 - `release/` — prebuilt executable
 
 Google Sans comes from the [Google Fonts Google Sans repository](https://github.com/googlefonts/googlesans) and is distributed under the SIL Open Font License; its license is in `assets/fonts/OFL.txt`. The app source and project logo use the MIT license in `LICENSE`.
+
 
